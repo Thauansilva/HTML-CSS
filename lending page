@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Comer é vida, selebre a sua !">
+    <title>Ninha delicias</title>
+    
+</head>
+
+<body>
+   <header class="cabecalho">
+<img clas="imagem-cabecalho" src="LogoNinhaDelicias.jpg" alt="logo da loja Ninha delicias">
+<nave class="cabecalho-menu">
+    <a class="cabecalho-menu-item">Quem somos</a>
+    <a class="cabecalho-menu-item">Entrar em contato</a>
+    <a class="cabecalho-menu-item">feedbacks</a>
+</nave>
+   </header>
+
+
+<main class="conteudo">
+    <section class="conteudo-principal">
+<div class="conteudo-principal-escrito">
+<h1 class="conteudo-principal-escrito-titulo">Ninha Delicias</h1>
+<h2 class="conteudo-principal-escrito-subtitutlo">O engrediente principal é o amor</h2>
+<button class="conteudo-principal-botao">Fale consoco</button>
+</div>
+<img class="" src="logoN.png" alt="imagem do robo da ninha ">
+    </section>
+
+    <section class="">
+<h3 class="">Sobre o produto</h3>
+<p class=""><strong>A felicidade vem em varios formatos, inclusive em forma de cone, perfeito para qualquer  hora do dia</strong> </p>
+<p class="">Nossos cones recheados são feitos com chocolate ao leite derretidos <strong>feitos para se deliciar </strong> </p>
+<p class="">Disponivel nos sabores Brigadeiro e Beijinho, <strong>venha esperimentar voce tambem !</strong></p>
+    </section>
+</main>
+
+<footer class="">
+    <img class="" src="ninha1.png" alt="texto ninha">
+</footer>
+
+</body>
+</html>
